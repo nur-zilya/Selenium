@@ -20,3 +20,10 @@ driver.quit()
 # //employee[@id=’2’] - по id
 # //employee[@id=’1’]/name[text()=’David’] - по тексту
 # //name[text()=’John’] - по тексту
+
+
+
+
+
+
+
